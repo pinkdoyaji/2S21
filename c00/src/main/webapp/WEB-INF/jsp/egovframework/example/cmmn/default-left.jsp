@@ -72,7 +72,7 @@
                 <li id="main" class="menu active">
                     <a href="#">
                         <i class="pe-7s-graph"></i>
-                        <p>Dashboard</p>
+                        <p>Dashboard일까요</p>
                     </a>
                 </li>
                 <li id="main2" class="menu active">
